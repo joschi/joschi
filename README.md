@@ -7,8 +7,8 @@ My name is Jochen and I write software for a living.
 
 You can find me on other websites, too!
 
-- <a rel="me" href="https://mastodon.social/@joschi">:elephant: Mastodon @joschi@mastodon.social</a>
-- <a rel="me" href="https://twitter.com/joschi83">:bird: Twitter @joschi83</a>
+- <a rel="me" href="https://mastodon.social/@joschi">:elephant: Mastodon</a>
+- <a rel="me" href="https://twitter.com/joschi83">:bird: Twitter</a>
 
 <!--
 **joschi/joschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
