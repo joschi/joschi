@@ -3,12 +3,16 @@
 My name is Jochen and I write software for a living.
 
 
-#### Social
+#### 💬 Social
 
 You can find me on other websites, too!
 
 - <a rel="me" href="https://mastodon.social/@joschi">:elephant: Mastodon</a>
 - <a rel="me" href="https://twitter.com/joschi83">:bird: Twitter</a>
+
+#### 🏆 GitHub Profile Trophy
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=joschi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **joschi/joschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
